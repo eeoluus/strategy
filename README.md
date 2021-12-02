@@ -1,3 +1,3 @@
 # strategy
 
-Learning the strategy pattern
+Trying out the strategy pattern.
