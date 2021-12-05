@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 calcstrats = {
     'subtraction': lambda x, y: x - y,
     'addition': lambda x, y: x + y,
