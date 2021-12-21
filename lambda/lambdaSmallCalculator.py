@@ -6,7 +6,7 @@ calcstrats = {
     }
 
 def printStrats(lst):
-    for c in calcstrats.keys():
+    for c in lst.keys():
         print(c)
         
 def operateOnInput(task):
